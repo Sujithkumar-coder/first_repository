@@ -1,6 +1,2 @@
-Hi, Good morining
-<<<<<<< HEAD
+Hi, Good morining HEAD
 SUJITH
-=======
-Sujith
->>>>>>> b1
