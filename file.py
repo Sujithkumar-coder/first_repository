@@ -1,2 +1,2 @@
-Hi, good morining
+Hi, Good morining
 sujith
