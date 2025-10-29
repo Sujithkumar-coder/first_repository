@@ -1,2 +1,2 @@
 This is sujithkumar
-today's topic was git hub
+today's topic was github
